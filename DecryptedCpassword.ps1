@@ -35,4 +35,4 @@ function Get-DecryptedCpassword {
 }
 Get-DecryptedCpassword "9XLcz+Caj/kyldECku6lQ1QJX3fe9gnshWkkWlgAN1U"
 # Use cpassword Replace "9XLcz+Caj/kyldECku6lQ1QJX3fe9gnshWkkWlgAN1U"
-# Use "powershell -executionpolicy bypass -file Get-GPPPassword.ps1" to Execute
+# Use "powershell -executionpolicy bypass -file DecryptedCpassword.ps1" to Execute
